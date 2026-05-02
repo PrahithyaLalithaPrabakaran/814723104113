@@ -3,8 +3,8 @@
 ## Core Actions
 -Create notification -View notification -Mark as read
 
-## APIs
-## POST GET PUT
+##APIs
+ -POST GET PUT
 
-Real-time
+##Real-time
 Use WebSockets for instant notifications
